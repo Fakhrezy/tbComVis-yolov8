@@ -1,0 +1,13 @@
+names:
+- jalan retak
+- lubang
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: jalan-lubang-jalan-retak
+  url: https://universe.roboflow.com/dataset-lubang/jalan-lubang-jalan-retak/dataset/3
+  version: 3
+  workspace: dataset-lubang
+test: test/images
+train: train/images
+val: valid/images
